@@ -1,0 +1,47 @@
+
+
+
+{
+"@schema": "1.1",  
+        "rit": {
+            "team": {
+                "voertuignummer": "33912",
+                "verpleegkundige": "CITYGISDEV\\Kevin"
+            },
+            "gmsRitId": "01-1000000000",
+            "afgesloten": false,
+            "gmsWaarden": {
+                "kladblok": [
+                    {
+                        "tekst": "/Z0aJHaR/v5dy7E2jmMOFLlxwJrjCGc73PB6MfQx0UM="
+                    },
+                    {
+                        "tekst": "WBRrCZyE6/9v2gi9Gbo7zHIDntM6HC+Vw9jCe1cqgkg="
+                    }
+                ],
+                "urgentie": "B2",
+                "statussen": {
+                    "apa": "2024-05-27T07:53:08Z",
+                    "mld": "2024-03-05T01:08:35Z",
+                    "opd": "2024-05-03T07:08:10Z",
+                    "vtr": "2024-08-25T21:17:26Z"
+                },
+                "inzetAdres": {
+                    "straat": "Annestraat",
+                    "huisnummer": "235c",
+                    "postcode": "9325 IU",
+                    "plaats": "Buchtenhoven",
+                    "latitude": 43.6982,
+                    "longitude": -95.4005
+                },
+                "bestemmingAdres": {
+                    "latitude": 48.9289,
+                    "longitude": -88.9037
+                }
+            },
+            "inzetNummer": 647637,
+            "inzetDatumTijd": "2024-04-18T02:49:26Z",
+            "handmatigAangemaakt": true
+        }
+
+    }

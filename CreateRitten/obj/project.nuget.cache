@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "woRxa3t83Yk=",
+  "success": true,
+  "projectFilePath": "C:\\users\\citygis\\documents\\ritten\\createritten\\CreateRitten.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CityGIS\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\CityGIS\\.nuget\\packages\\system.commandline\\2.0.0-beta1.20071.2\\system.commandline.2.0.0-beta1.20071.2.nupkg.sha512",
+    "C:\\Users\\CityGIS\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,42 @@
+{
+  "rit": {
+    "Team": {
+      "Voertuignummer": "12629",
+      "Verpleegkundige": "CITYGISDEV\\Ramino"
+    },
+    "GmsRitId": "01-1000000000",
+    "Afgesloten": true,
+    "GmsWaarden": {
+      "Kladblok": [
+        {
+          "Tekst": "4+FbTkDyF+JurxVBs34egq169b8jQ09gVhwnL1aVZyU="
+        },
+        {
+          "Tekst": "HR/mRjYV4/aiHFn7PDItHPFaebQVcYkBJ+5epAKy+RI="
+        }
+      ],
+      "Urgentie": "A1",
+      "Statussen": {
+        "Apa": "2025-02-19T21:30:33Z",
+        "Mld": "2024-03-16T00:30:24Z",
+        "Opd": "2024-05-01T23:48:36Z",
+        "Vtr": "2024-10-13T01:20:06Z"
+      },
+      "InzetAdres": {
+        "straat": "Darian Inlet",
+        "huisnummer": "53712",
+        "postcode": "56984-7541",
+        "plaats": "West Florenceland",
+        "latitude": 0.2991,
+        "longitude": 126.6993
+      },
+      "BestemmingAdres": {
+        "latitude": 11.172,
+        "longitude": 63.8586
+      }
+    },
+    "InzetNummer": 196338,
+    "InzetDatumTijd": "2024-11-01T04:47:29Z",
+    "HandmatigAangemaakt": false
+  }
+}
